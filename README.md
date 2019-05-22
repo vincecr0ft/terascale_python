@@ -1,1 +1,1 @@
-# Vince's terascale notes
+#Royer's notes based on Vince's terascale notes
